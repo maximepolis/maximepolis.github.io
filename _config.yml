@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Maxime Polis"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate at Lund University"
-  location         : "Malmö (Sweden)"
+  bio              : "PhD Candidate in Economics at Lund University"
+  location         : "Sweden"
   employer         : "Lund University"
   pubmed           : 
   googlescholar    : 
-  email            : "maxime.polis@nek.lu.se"
+  email            : "maxime.polis(at)nek.lu.se"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
