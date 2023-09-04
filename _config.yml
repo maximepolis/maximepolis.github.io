@@ -82,12 +82,12 @@ analytics:
 # Site Author
 author:
   name             : "Maxime Polis"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Malmö (Sweden)"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "polismaxime1@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :"https://www.linkedin.com/in/maximepolis/"
+  linkedin         : "https://www.linkedin.com/in/maximepolis/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@polis_maxime"
+  twitter          : "polis_maxime"
   vine             :
   weibo            :
   xing             :
