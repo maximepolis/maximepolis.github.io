@@ -16,13 +16,12 @@ My research interests lie primarily in Monetary Policy, Central Bank Digital Cur
 
 ## Contact
 Email: maxime.polis(at)nek.lu.se
-&nbsp;
-&nbsp;
+&NewLine;
+&NewLine;
 Social Media: [Twitter](https://www.linkedin.com/in/maximepolis/); 
-&nbsp;
-&nbsp;
-Address: Lund University &nbsp;
-PO Box 7080, SE-220 07 Lund, Sweden &nbsp;
+&NewLine;
+&NewLine;
+Address: Lund University PO Box 7080, SE-220 07 Lund, Sweden &NewLine;
 Room EC1 – 241 Holger Crafoords Ekonomicentrum, Tycho Brahes väg 1
 
 
