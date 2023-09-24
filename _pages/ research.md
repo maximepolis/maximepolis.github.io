@@ -9,7 +9,7 @@ author_profile: true
 
 ## Others:
 
-   ### Master Thesis:
+ ### Master Thesis:
    
 - Polis, M. (2022). [Central bank digital currencies in open economies: A new Keynesian DSGE approach](https://matheo.uliege.be/bitstream/2268.2/15187/4/Central_Bank_Digital_Currencies_in_Open_Economies__A_NK_DSGE_approach.pdf).    (Unpublished master's thesis). Université de Liège, Liège, Belgique. Retrieved from https://matheo.uliege.be/handle/2268.2/15187.
     * Winner of 2023 GUTT Award, which  honors an outstanding end of studies thesis in the field of economics and finance.
