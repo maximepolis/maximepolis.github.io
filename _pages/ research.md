@@ -15,8 +15,8 @@ author_profile: true
    * Third Place at the [DEA Thesis Award 2022](https://blog.digital-euro-association.de/dea-thesis-awards-2023-recap).
   
 ## Contributions:
-  - [Stablecoins: An Introduction and Recommendations for the European Union.](https://7869715.fs1.hubspotusercontent-na1.net/hubfs/7869715/Private%20Working%20Group%20paper.pdf), Digital Euro Association, Private Digital Euro Working Group Recommendations, August 2022. 
-  -  [Ahead of the Digital Euro](https://7869715.fs1.hubspotusercontent-na1.net/hubfs/7869715/New%20-%20Public%20DEA%20Working%20Group%20Paper.pdf), Digital Euro Association, Public Digital Euro Working Group Recommendations, August 2022. 
+ - [Stablecoins: An Introduction and Recommendations for the European Union.](https://7869715.fs1.hubspotusercontent-na1.net/hubfs/7869715/Private%20Working%20Group%20paper.pdf), Digital Euro Association, Private Digital Euro Working Group Recommendations, August 2022. 
+ -  [Ahead of the Digital Euro](https://7869715.fs1.hubspotusercontent-na1.net/hubfs/7869715/New%20-%20Public%20DEA%20Working%20Group%20Paper.pdf), Digital Euro Association, Public Digital Euro Working Group Recommendations, August 2022. 
    
   
 
