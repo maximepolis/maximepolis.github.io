@@ -8,27 +8,14 @@ author_profile: true
 
 
 
-I am a mathematical economist with strong interests in applications. The topics I have worked on include
-
-- [the impossibility of canonical macroeconomic models to explain wealth inequality](https://doi.org/10.1016/j.jet.2019.04.001),
-- [a simple explanation for the saving behavior of the rich that does not rely on ad hoc utility functions](https://doi.org/10.1016/j.jet.2021.105193),
-- [a computational algorithm for solving macroeconomic models with realistic wealth distributions](https://doi.org/10.3982/QE1817),
-- [simple formula and mathematical foundation for Pareto exponents that arise in random multiplicative processes in Markovian environments](https://dx.doi.org/10.3982/ECTA17984),
-- [verification of the random multiplicative process to explain the spread of COVID-19](https://doi.org/10.1016/j.physd.2020.132649),
-- [wealth inequality and stock market returns](https://doi.org/10.1093/rfs/hhz121),
-- [determination of academic salaries](https://econjwatch.org/articles/publications-citations-position-and-compensation-of-economics-professors),
-- [implication of financial development to international capital flows and welfare](https://doi.org/10.1016/j.jfineco.2018.08.011),
-- [efficient discretization of non-linear, non-Gaussian Markov processes](https://doi.org/10.3982/QE737),
-- [optimal epidemic control when testing and government enforcement are imperfect](https://doi.org/10.1016/j.jet.2022.105570),
-
-among others.
-
-
    ## Other
 
    # Master Thesis:
-
+- Polis, M. (2022). [Central bank digital currencies in open economies: A new Keynesian DSGE approach](https://matheo.uliege.be/bitstream/2268.2/15187/4/Central_Bank_Digital_Currencies_in_Open_Economies__A_NK_DSGE_approach.pdf). (Unpublished master's thesis). Université de Liège, Liège, Belgique. Retrieved from https://matheo.uliege.be/handle/2268.2/15187
    # Contributions:
+  - Caudevilla, Oriol & Ostrowski, Chris & Ahlborn, Erik & Bofinger, Peter & Copic, Ezechiel & Leon, Rafael & Crant, Aurelia & Rubia, Cyrus & D'Imperio, Gianluca & Distler, Wolfram & Dreyer, Stephan & Gherras, Baghdad & Haas, Thomas & Hartmannsgruber, Philipp & Henniges, Marc & Kraft, Conrad & Lavayssière, Xavier & Mayer, Fabian & Oberrauch, Christoph & Vanini, Luca. (2022). [Stablecoins: An Introduction and Recommendations for the European Union.](https://7869715.fs1.hubspotusercontent-na1.net/hubfs/7869715/Private%20Working%20Group%20paper.pdf), Digital Euro Association, Private Digital Euro Working Group Recommendations, August 2022. 
+  - Gόgl, Anne-Sophie & Zatti, Filippo & Cizar, Erik & Brahim, Bachir & Barada, Suleiman & Suarez, Lucia & Rosa, Barcia & Barresi, Rosa & Ford, Jim & Frade, Dercio & Gutierrez, Juan & Haas, Thomas & Hartmannsgruber, Philipp & Deniz, Anja & Köksal, Baytemür & Kraft, Conrad & Mangini, David & Marz, Marlene & Merz, Dominik & Vanini, Luca. (2022). [AHEAD OF THE DIGITAL EURO](https://7869715.fs1.hubspotusercontent-na1.net/hubfs/7869715/New%20-%20Public%20DEA%20Working%20Group%20Paper.pdf), Digital Euro Association, Public Digital Euro Working Group Recommendations, August 2022. 
+   
   
 
 
